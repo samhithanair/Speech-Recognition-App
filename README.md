@@ -1,4 +1,3 @@
 ### How to Run:
-Use Google API Key 
-
+Make sure to add Google API KEY/ Gemini
 ``` streamlit app.py```

@@ -12,7 +12,7 @@ SpeakUp Pronunciation Game is an interactive application designed to improve use
 
 ## Installation
 1. Install the required Python packages using pip install -r requirements.txt
-2. Set up environment variable 'GOOGL_API_KEY' in a .env file for the Gemini API Key
+2. Set up environment variable `'GOOGL_API_KEY'` in the `.env` file for the Gemini API Key
 
 Run the Application
-Run the file as python pronunciation_game.py and follow the instruction given on the screen.
+Run the file as `python pronunciation_game.py` and follow the instruction given on the screen.
